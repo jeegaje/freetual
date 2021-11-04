@@ -1,0 +1,36 @@
+#app{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fw-bold{
+    font-weight: 600;
+}
+
+.img-feedback{
+    border-radius: 50%;
+}
+
+.image-jumbotron{
+    object-fit: cover;
+}
+
+.container-jumbotron{
+    position: relative;
+}
+
+.text-jumbotron {
+    position: absolute;
+    bottom: 45px;
+    left: 65px;
+}
+
+.account{
+    text-decoration: none;
+    color: black;
+}
+
+.account:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
