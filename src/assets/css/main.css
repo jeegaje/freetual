@@ -20,8 +20,35 @@
 
 .text-jumbotron {
     position: absolute;
-    bottom: 45px;
+    bottom: 145px;
     left: 65px;
+}
+
+.navbar-jumbotron {
+    position: absolute;
+    top: 50px;
+    left: 65px;
+}
+
+.button-jumbotron {
+    position: absolute;
+    top: 50px;
+    right: 65px;
+}
+
+.navbar-link{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-link:hover{
+    text-decoration: none;
+    font-weight: 900;
+    color: white;
+}
+
+.navbar-title{
+    font-weight: 900;
 }
 
 .account{

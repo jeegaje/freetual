@@ -22,6 +22,15 @@
             <a href="#" class="btn btn-primary py-auto">Jelajahi</a>
           </div>
         </div>
+
+        <div class="card" style="width: 18rem;">
+          <img src="../assets/Education-3.jpg" class="card-img-top" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title text-center fw-bold">Museum Geologi Bandung</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary py-auto">Jelajahi</a>
+          </div>
+        </div>
     </div>
 
     <h4 class="text-center fw-bold py-5 mt-5 mb-5">Costumer Feedback</h4>
